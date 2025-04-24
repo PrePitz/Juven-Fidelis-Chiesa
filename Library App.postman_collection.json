@@ -1,0 +1,51 @@
+{
+	"info": {
+		"_postman_id": "4c1c6294-70aa-4ad1-ae4b-e5e73fc255be",
+		"name": "Library App",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44169849",
+		"_collection_link": "https://prepitz.postman.co/workspace/PrePitz's-Workspace~4681efee-b50c-494f-8e3a-37c91e6e8fe9/collection/44169849-4c1c6294-70aa-4ad1-ae4b-e5e73fc255be?action=share&source=collection_link&creator=44169849"
+	},
+	"item": [
+		{
+			"name": "getbook",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "getbook1",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "post",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Put",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Delete",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
